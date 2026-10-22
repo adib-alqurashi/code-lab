@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+# Java
+*.class
+out/
+target/
+# Data (download instead of committing)
+data/
+*.csv
+*.parquet
+*.zip
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
